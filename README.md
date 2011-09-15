@@ -47,10 +47,6 @@ You can find examples in the src/test/resources/examples directory.
 
 This software is published under the LGPLv3 licence.
 
-# Development
-
-You can follow development at https://github.com/leth/AllocationCurve
-
 # Authors
 
 * Marcus Cobden 
