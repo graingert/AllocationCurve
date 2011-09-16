@@ -2,7 +2,7 @@
 
 This utility takes as input an IPv6 subnet and a list of smaller subnets within it.
 It then draws the larger subnet as a two dimensional hilbert space-filling curve, and plots the enclosed subnets within it.
-The utility outputs this as an XHTML with embedded Scalable Vector Graphics (SVG).
+The utility outputs this as an XHTML5 with embedded Scalable Vector Graphics (SVG).
 
 # Current Status
 
